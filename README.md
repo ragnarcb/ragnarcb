@@ -4,7 +4,7 @@
   <br>
 </h1>
 
-<h1 align="center"><b>Olá, eu sou Caruso Augusto</b><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjNmaGg1Zml0MTBlcms4MmtlMHU1Zms5OXhvajM1ejJhdGliOWtieCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="35"></h1>
+<h1 align="center"><b>Olá, eu sou Caruso Augusto </b><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjNmaGg1Zml0MTBlcms4MmtlMHU1Zms5OXhvajM1ejJhdGliOWtieCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="35"></h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Estudante+de+Segurança+Cibernética,;Aprendiz+Ativo/Pesquisador"></a>
