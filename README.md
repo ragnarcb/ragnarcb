@@ -38,6 +38,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 <br>
 
+# 💻 Skills
 ![Python](https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-323330?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-323330?&style=for-the-badge&logo=css3&logoColor=white)
@@ -45,5 +46,6 @@
 ![JAVA](https://img.shields.io/badge/Java-323330?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Shell script](https://img.shields.io/badge/Shell_Script-323330?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![React](https://img.shields.io/badge/React-323330?style=for-the-badge&logo=react&logoColor=61DAFB)
-![MySQL](https://img.shields.io/badge/MySQL-323330F?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-323330?style=for-the-badge&logo=mysql&logoColor=white)
+
 
