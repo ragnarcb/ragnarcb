@@ -1,4 +1,4 @@
-![image](https://github.com/ragnarcb/ragnarcb/assets/103348874/c7f1b68e-20cc-4af4-a7a9-79da7b2ad9c4)<h1 align="Center">
+<h1 align="Center">
     <br>
     Welcome to My Github Profile 
   <br>
