@@ -1,4 +1,4 @@
-<h1 align="Center">
+![image](https://github.com/ragnarcb/ragnarcb/assets/103348874/c7f1b68e-20cc-4af4-a7a9-79da7b2ad9c4)<h1 align="Center">
     <br>
     Welcome to My Github Profile 
   <br>
@@ -37,3 +37,8 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 <br>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
