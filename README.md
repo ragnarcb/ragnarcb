@@ -29,9 +29,11 @@
 <br>
 
 # 📊 Estatísticas do GitHub:
-![](https://github-readme-stats.vercel.app/api?username=ragnarcb&theme=tokyonight&hide_border=false&include_all_commits=true&count)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ragnarcb&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ragnarcb&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="Center">
+    ![](https://github-readme-stats.vercel.app/api?username=ragnarcb&theme=tokyonight&hide_border=false&include_all_commits=true&count)<br/>
+    ![](https://github-readme-streak-stats.herokuapp.com/?user=ragnarcb&theme=tokyonight&hide_border=false)<br/>
+    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ragnarcb&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</div>
 <br>
 ### ✍️ Citação Aleatória de Desenvolvedor
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
@@ -42,7 +44,7 @@
 ![HTML](https://img.shields.io/badge/HTML5-323330?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-323330?&style=for-the-badge&logo=css3&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![JAVA](https://img.shields.io/badge/Java-323330?style=for-the-badge&logo=openjdk&logoColor=white)
+![JAVA](https://img.shields.io/badge/Java-323330?style=for-the-badge&logo=java&logoColor=white)
 ![Shell script](https://img.shields.io/badge/Shell_Script-323330?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![React](https://img.shields.io/badge/React-323330?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![MySQL](https://img.shields.io/badge/MySQL-323330?style=for-the-badge&logo=mysql&logoColor=white)
