@@ -27,7 +27,9 @@
 <br>
 <br>
 
-# 💻 Skills
+## <picture><img src = "https://media1.tenor.com/m/5ry-200hErMAAAAd/hacker-hacker-man.gif" width = 50px height = 50px></picture> **Skills**
+
+
 ![Python](https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-323330?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-323330?&style=for-the-badge&logo=css3&logoColor=white)
