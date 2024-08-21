@@ -45,6 +45,10 @@
 ![GNU_Bash](https://img.shields.io/badge/GNU%20Bash-323330?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
 ![Windows_Terminal](https://img.shields.io/badge/windows%20terminal-323330?style=for-the-badge&logo=windows%20terminal&logoColor=white)
 ![GIT](https://img.shields.io/badge/GIT-323330?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-323330.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-323330?style=for-the-badge&logo=postman&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-323330?style=for-the-badge&logo=vmware&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-323330?style=for-the-badge&logo=virtualbox&logoColor=white)
 
 
 <br>
@@ -52,9 +56,9 @@
 # 📊 GitHub Stats:
 
 <div style="display: flex; flex-direction: column; align-items: flex-start;">
-  <img src="https://github-readme-stats.vercel.app/api?username=ragnarcb&theme=tokyonight&hide_border=false&include_all_commits=true&count"/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ragnarcb&theme=tokyonight&hide_border=false"/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragnarcb&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ragnarcb&theme=blue-green&hide_border=false&include_all_commits=true&count"/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ragnarcb&theme=blue-green&hide_border=false"/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragnarcb&theme=blue-green"/>
 </div>
 
 <br>
