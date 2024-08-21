@@ -38,6 +38,13 @@
 ![Shell script](https://img.shields.io/badge/Shell_Script-323330?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![React](https://img.shields.io/badge/React-323330?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![MySQL](https://img.shields.io/badge/MySQL-323330?style=for-the-badge&logo=mysql&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-323330?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-323330?style=for-the-badge&logo=Arduino&logoColor=white)
+![espressif](https://img.shields.io/badge/espressif-323330?style=for-the-badge&logo=espressif&logoColor=white)
+![Spring_Security](https://img.shields.io/badge/Spring_Security-323330?style=for-the-badge&logo=Spring-Security&logoColor=white)
+![GNU_Bash](https://img.shields.io/badge/GNU%20Bash-323330?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
+![Windows_Terminal](https://img.shields.io/badge/windows%20terminal-323330?style=for-the-badge&logo=windows%20terminal&logoColor=white)
+![GIT](https://img.shields.io/badge/GIT-323330?style=for-the-badge&logo=git&logoColor=white)
 
 
 <br>
