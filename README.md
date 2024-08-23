@@ -10,7 +10,7 @@
     <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Cybersecurity+Student,;Active+Learner/Researcher"></a>
 </p>
 
-## <picture><img src = "https://media.tenor.com/dHk-LfzHrtwAAAAi/linux-computer.gif" width = 50px></picture> **Sobre mim**
+## <picture><img src = "https://media.tenor.com/dHk-LfzHrtwAAAAi/linux-computer.gif" width = 50px></picture> **About me**
 <picture> <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDlxM2h4ZWRscWUzemp5dHR4bGU4Z2ZqM291azhibzQzZGNhYjd2bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/077i6AULCXc0FKTj9s/giphy.gif"></picture>
 
 <br>
